@@ -1,0 +1,7 @@
+name = "Sketches"
+uuid = "66e95c34-7b97-4041-94b3-a43548dc2518"
+authors = ["Tomas Fiers <tomas.fiers@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.2"
